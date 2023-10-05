@@ -1,11 +1,12 @@
 .row01{
     background-color: rgba(0, 0, 0, 0.192);
-    border: 2px solid red;
+    
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: center;
     color: white;
     font-weight: bold;
+    height: 10cqmax;
 }
 
 .row02{
